@@ -1,0 +1,128 @@
+/**
+ * Color Codes
+ * Shapes
+*/
+/**
+ * Color Codes
+ * Fonts
+*/
+/**
+ * Acceleration Curves
+ */
+/**
+ * Interactive Items
+ */
+/**
+ * Shadows
+ */
+/**
+ * Pre-composed styles based on other mixins go here
+ */
+/**
+ * Color Codes
+ * Shapes
+*/
+/**
+ * Color Codes
+ * Fonts
+*/
+/**
+ * Acceleration Curves
+ */
+/**
+ * Interactive Items
+ */
+/**
+ * Shadows
+ */
+header[data-v-2eba4017] {
+  position: relative;
+  background: #16191e;
+}
+header .blobs[data-v-2eba4017] {
+    position: absolute;
+    width: 110%;
+    left: -100px;
+    top: -100px;
+    min-width: 1920px;
+    fill: rgba(60, 70, 80, 0.4) !important;
+    animation-name: pulse-data-v-2eba4017;
+    animation-timing-function: ease-in-out;
+    animation-duration: 35s;
+    animation-iteration-count: infinite;
+}
+header .container[data-v-2eba4017] {
+    position: relative;
+    z-index: 1;
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+header h1[data-v-2eba4017] {
+    font-weight: 300;
+}
+header p[data-v-2eba4017] {
+    color: white;
+    font-weight: 400;
+}
+header .background-container[data-v-2eba4017] {
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+@keyframes pulse-data-v-2eba4017 {
+0% {
+    transform: scaleX(1);
+}
+50% {
+    transform: scale3d(1.15, 1.15, 1.15);
+}
+100% {
+    transform: scaleX(1);
+}
+}
+
+/**
+ * Color Codes
+ * Shapes
+*/
+/**
+ * Color Codes
+ * Fonts
+*/
+/**
+ * Acceleration Curves
+ */
+/**
+ * Interactive Items
+ */
+/**
+ * Shadows
+ */
+/**
+ * Pre-composed styles based on other mixins go here
+ */
+/**
+ * Color Codes
+ * Shapes
+*/
+/**
+ * Color Codes
+ * Fonts
+*/
+/**
+ * Acceleration Curves
+ */
+/**
+ * Interactive Items
+ */
+/**
+ * Shadows
+ */
+p[data-v-f54d72f2] {
+  font-size: 1.05em;
+}
+a[data-v-f54d72f2] {
+  margin-top: 15px;
+}
+
